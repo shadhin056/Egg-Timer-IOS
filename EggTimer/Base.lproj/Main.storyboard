@@ -21,9 +21,8 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="9S4-l0-41N" userLabel="Title View">
                                         <rect key="frame" x="0.0" y="0.0" width="374" height="246.5"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="XLm-5r-pSP" userLabel="Title Label">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="How do you like your eggs?" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="XLm-5r-pSP" userLabel="Title Label">
                                                 <rect key="frame" x="0.0" y="0.0" width="374" height="246.5"/>
-                                                <string key="text">How do you like your eggs?How do you like your eggs?How do you like your eggs?How do you like your eggs?How do you like your eggs?How do you like your eggs?How do you like your eggs?How do you like your eggs?How do you like your eggs?How do you like your eggs?</string>
                                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                 <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>
@@ -122,7 +121,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nJN-th-c5K" userLabel="Timer View">
                                         <rect key="frame" x="0.0" y="571.5" width="374" height="246.5"/>
                                         <subviews>
-                                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progressViewStyle="bar" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Dln-ly-7bC">
+                                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progressViewStyle="bar" translatesAutoresizingMaskIntoConstraints="NO" id="Dln-ly-7bC">
                                                 <rect key="frame" x="0.0" y="118" width="374" height="11"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="10" id="bmY-lH-Zdz"/>
